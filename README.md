@@ -1,4 +1,4 @@
-## Hi folks!!
+## Hi folks !!
 ## Have a look at some cool apps made using Streamlit Framework.
 
 # Streamlit.
